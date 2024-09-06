@@ -1,4 +1,5 @@
-# Create  a DataFrame of students scores write a python Program to filter out the students who scored above a certain threshold in a specfic object
+# Create  a DataFrame of students scores write a python Program to filter out the students who scored above 
+# a certain threshold in a specfic object
 
 import pandas as pd
 # Create a DataFrame of students' scores

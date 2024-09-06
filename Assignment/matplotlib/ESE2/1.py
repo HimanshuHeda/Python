@@ -1,4 +1,5 @@
-# Write a python program to plot a bubble chart with labels for each bubble. Display the x and y values as the labels inside the bubbles.
+# Write a python program to plot a bubble chart with labels for each bubble. Display the x and y values as the 
+# labels inside the bubbles.
 
 import matplotlib.pyplot as plt
 

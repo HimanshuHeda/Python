@@ -1,4 +1,5 @@
-# Write a dataframe with some missing values.Use Pandas functions to fill the missing values with the mean, and then drop any remaining rows with missing data.
+# Write a dataframe with some missing values.Use Pandas functions to fill the missing values with the mean, 
+# and then drop any remaining rows with missing data.
 
 import pandas as pd
 import numpy as np
