@@ -16,6 +16,6 @@ count = len(numbers)
 average = total_sum / count
 
 # Print the result
-print(f"The average of the list is: {average}")
+print(f"The average of the list is: \n{average}")
 
 # Output: The average of the list is: 30.0
