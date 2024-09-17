@@ -2,7 +2,7 @@
 
 
 import matplotlib.pyplot as plt
-import numpy as np
+# import numpy as np
 
 labels= ['A','B','C']
 sizes= [20,30,50]
