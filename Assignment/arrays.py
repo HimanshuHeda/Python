@@ -15,5 +15,6 @@ def elementwise_comparison_numpy(arr1, arr2):
 arr1 = [1, 2, 3, 4, 5]
 arr2 = [1, 2, 0, 4, 5]
 
+# It will show the result of the numpy
 result = elementwise_comparison_numpy(arr1, arr2)
 print("Element-wise comparison results (NumPy):", result)
